@@ -1,0 +1,4 @@
+
+1 - Colocar o arquivo "StreamReader.txt" em uma pasta qualquer 
+
+2 - Mudar o caminho do diretório no codigo do programa. 

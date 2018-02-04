@@ -1,0 +1,48 @@
+C:\Users\Henrique\Desktop\Nova pasta\wfp_birthday_manager-master\ViewAss\bin\Debug\ViewAss.exe.config
+C:\Users\Henrique\Desktop\Nova pasta\wfp_birthday_manager-master\ViewAss\bin\Debug\ViewAss.exe
+C:\Users\Henrique\Desktop\Nova pasta\wfp_birthday_manager-master\ViewAss\bin\Debug\ViewAss.pdb
+C:\Users\Henrique\Desktop\Nova pasta\wfp_birthday_manager-master\ViewAss\bin\Debug\Domain.dll
+C:\Users\Henrique\Desktop\Nova pasta\wfp_birthday_manager-master\ViewAss\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Henrique\Desktop\Nova pasta\wfp_birthday_manager-master\ViewAss\bin\Debug\Domain.pdb
+C:\Users\Henrique\Desktop\Nova pasta\wfp_birthday_manager-master\ViewAss\obj\Debug\ViewAss.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\Desktop\Nova pasta\wfp_birthday_manager-master\ViewAss\obj\Debug\ViewAss.Properties.Resources.resources
+C:\Users\Henrique\Desktop\Nova pasta\wfp_birthday_manager-master\ViewAss\obj\Debug\ViewAss.csproj.GenerateResource.Cache
+C:\Users\Henrique\Desktop\Nova pasta\wfp_birthday_manager-master\ViewAss\obj\Debug\ViewAss.exe
+C:\Users\Henrique\Desktop\Nova pasta\wfp_birthday_manager-master\ViewAss\obj\Debug\ViewAss.pdb
+C:\Users\Henrique\Desktop\Nova pasta\wfp_birthday_manager-master\ViewAss\obj\Debug\ViewAss.Form1.resources
+C:\Users\Henrique\Desktop\Nova pasta\Grupo AT\ViewAss\bin\Debug\ViewAss.exe.config
+C:\Users\Henrique\Desktop\Nova pasta\Grupo AT\ViewAss\bin\Debug\ViewAss.exe
+C:\Users\Henrique\Desktop\Nova pasta\Grupo AT\ViewAss\bin\Debug\ViewAss.pdb
+C:\Users\Henrique\Desktop\Nova pasta\Grupo AT\ViewAss\bin\Debug\Domain.dll
+C:\Users\Henrique\Desktop\Nova pasta\Grupo AT\ViewAss\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Henrique\Desktop\Nova pasta\Grupo AT\ViewAss\bin\Debug\Domain.pdb
+C:\Users\Henrique\Desktop\Nova pasta\Grupo AT\ViewAss\obj\Debug\ViewAss.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\Desktop\Nova pasta\Grupo AT\ViewAss\obj\Debug\ViewAss.Form1.resources
+C:\Users\Henrique\Desktop\Nova pasta\Grupo AT\ViewAss\obj\Debug\ViewAss.Properties.Resources.resources
+C:\Users\Henrique\Desktop\Nova pasta\Grupo AT\ViewAss\obj\Debug\ViewAss.csproj.GenerateResource.Cache
+C:\Users\Henrique\Desktop\Nova pasta\Grupo AT\ViewAss\obj\Debug\ViewAss.exe
+C:\Users\Henrique\Desktop\Nova pasta\Grupo AT\ViewAss\obj\Debug\ViewAss.pdb
+C:\Users\Henrique\Desktop\Grupo AT\ViewAss\obj\Debug\ViewAss.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\Desktop\Grupo AT\ViewAss\obj\Debug\ViewAss.Form1.resources
+C:\Users\Henrique\Desktop\Grupo AT\ViewAss\obj\Debug\ViewAss.Properties.Resources.resources
+C:\Users\Henrique\Desktop\Grupo AT\ViewAss\obj\Debug\ViewAss.csproj.GenerateResource.Cache
+C:\Users\Henrique\Desktop\Grupo AT\ViewAss\obj\Debug\ViewAss.exe
+C:\Users\Henrique\Desktop\Grupo AT\ViewAss\obj\Debug\ViewAss.pdb
+C:\Users\Henrique\Desktop\Grupo AT\ViewAss\bin\Debug\ViewAss.exe.config
+C:\Users\Henrique\Desktop\Grupo AT\ViewAss\bin\Debug\ViewAss.exe
+C:\Users\Henrique\Desktop\Grupo AT\ViewAss\bin\Debug\ViewAss.pdb
+C:\Users\Henrique\Desktop\Grupo AT\ViewAss\bin\Debug\Domain.dll
+C:\Users\Henrique\Desktop\Grupo AT\ViewAss\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Henrique\Desktop\Grupo AT\ViewAss\bin\Debug\Domain.pdb
+C:\Users\Henrique\Desktop\test-C-managerPerson-master\AT - Desenvolvimento em C#\ViewAss\bin\Debug\ViewAss.exe.config
+C:\Users\Henrique\Desktop\test-C-managerPerson-master\AT - Desenvolvimento em C#\ViewAss\bin\Debug\ViewAss.exe
+C:\Users\Henrique\Desktop\test-C-managerPerson-master\AT - Desenvolvimento em C#\ViewAss\bin\Debug\ViewAss.pdb
+C:\Users\Henrique\Desktop\test-C-managerPerson-master\AT - Desenvolvimento em C#\ViewAss\bin\Debug\Domain.dll
+C:\Users\Henrique\Desktop\test-C-managerPerson-master\AT - Desenvolvimento em C#\ViewAss\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Henrique\Desktop\test-C-managerPerson-master\AT - Desenvolvimento em C#\ViewAss\bin\Debug\Domain.pdb
+C:\Users\Henrique\Desktop\test-C-managerPerson-master\AT - Desenvolvimento em C#\ViewAss\obj\Debug\ViewAss.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\Desktop\test-C-managerPerson-master\AT - Desenvolvimento em C#\ViewAss\obj\Debug\ViewAss.Form1.resources
+C:\Users\Henrique\Desktop\test-C-managerPerson-master\AT - Desenvolvimento em C#\ViewAss\obj\Debug\ViewAss.Properties.Resources.resources
+C:\Users\Henrique\Desktop\test-C-managerPerson-master\AT - Desenvolvimento em C#\ViewAss\obj\Debug\ViewAss.csproj.GenerateResource.Cache
+C:\Users\Henrique\Desktop\test-C-managerPerson-master\AT - Desenvolvimento em C#\ViewAss\obj\Debug\ViewAss.exe
+C:\Users\Henrique\Desktop\test-C-managerPerson-master\AT - Desenvolvimento em C#\ViewAss\obj\Debug\ViewAss.pdb

@@ -1,0 +1,24 @@
+C:\Users\Henrique\Desktop\Nova pasta\wfp_birthday_manager-master\Domain\bin\Debug\Domain.dll
+C:\Users\Henrique\Desktop\Nova pasta\wfp_birthday_manager-master\Domain\bin\Debug\Domain.pdb
+C:\Users\Henrique\Desktop\Nova pasta\wfp_birthday_manager-master\Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Henrique\Desktop\Nova pasta\wfp_birthday_manager-master\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\Desktop\Nova pasta\wfp_birthday_manager-master\Domain\obj\Debug\Domain.dll
+C:\Users\Henrique\Desktop\Nova pasta\wfp_birthday_manager-master\Domain\obj\Debug\Domain.pdb
+C:\Users\Henrique\Desktop\Nova pasta\Grupo AT\Domain\bin\Debug\Domain.dll
+C:\Users\Henrique\Desktop\Nova pasta\Grupo AT\Domain\bin\Debug\Domain.pdb
+C:\Users\Henrique\Desktop\Nova pasta\Grupo AT\Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Henrique\Desktop\Nova pasta\Grupo AT\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\Desktop\Nova pasta\Grupo AT\Domain\obj\Debug\Domain.dll
+C:\Users\Henrique\Desktop\Nova pasta\Grupo AT\Domain\obj\Debug\Domain.pdb
+C:\Users\Henrique\Desktop\Grupo AT\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\Desktop\Grupo AT\Domain\obj\Debug\Domain.dll
+C:\Users\Henrique\Desktop\Grupo AT\Domain\obj\Debug\Domain.pdb
+C:\Users\Henrique\Desktop\Grupo AT\Domain\bin\Debug\Domain.dll
+C:\Users\Henrique\Desktop\Grupo AT\Domain\bin\Debug\Domain.pdb
+C:\Users\Henrique\Desktop\Grupo AT\Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Henrique\Desktop\test-C-managerPerson-master\AT - Desenvolvimento em C#\Domain\bin\Debug\Domain.dll
+C:\Users\Henrique\Desktop\test-C-managerPerson-master\AT - Desenvolvimento em C#\Domain\bin\Debug\Domain.pdb
+C:\Users\Henrique\Desktop\test-C-managerPerson-master\AT - Desenvolvimento em C#\Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Henrique\Desktop\test-C-managerPerson-master\AT - Desenvolvimento em C#\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\Desktop\test-C-managerPerson-master\AT - Desenvolvimento em C#\Domain\obj\Debug\Domain.dll
+C:\Users\Henrique\Desktop\test-C-managerPerson-master\AT - Desenvolvimento em C#\Domain\obj\Debug\Domain.pdb
